@@ -1,3 +1,5 @@
+# This file currently has no theme.
+
 def bin2hex (bin):
     """
     print binary as hex
